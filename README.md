@@ -1,3 +1,3 @@
 # DroneDown
 
-![alt tag](DroneDown.png)
+![schematics](DroneDown.svg)
