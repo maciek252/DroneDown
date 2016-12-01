@@ -1,0 +1,1 @@
+cp /tmp/build692130ad84cae913cbb7a12616996b03.tmp/DroneDown.ino.hex ./DroneDown-Drone.hex

@@ -1,0 +1,1 @@
+kompilujemy arduino 1.6.10: swieza instalka arduino i swiezy checkout z gita
